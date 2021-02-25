@@ -12,7 +12,7 @@
 <li>The 75% quartile for December is 74 degrees meaning that 75% of the temperatures are less than or equal to 74 degrees, whereas, the 25% quartile is 69 degrees meaning that only 25% of the temperatures are less than or equal to 69 degrees. This compares to June where the 75% quartile is 77 degrees and the 25% quartile is 73 degrees.
 <li>The minimum temperature in June was 64 degrees, whereas, the minimum temperature in December was 56 degrees.</li>
 <li>The maximum temperature in June was 85 degrees, whereas, the maximum temperature in December was 83 degrees.</li>
-<li>The mean temperate in June was 75 degrees, whereas, the mean temperature in December was 71 degrees. However, the standard deviation is 3.25 for June and 3.75 for December both of which would be considered high when looking at temperatures.</li>
+<li>The mean temperate in June was 75 degrees, whereas, the mean temperature in December was 71 degrees. However, the standard deviation is 3.25 for June and 3.75 for December both of which would be considered high.</li>
 </ul>
 <br>
 <h3>June</h3>
